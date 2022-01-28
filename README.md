@@ -20,8 +20,14 @@ simplegistyc is a gistyc just more convenient, because it allows you to create, 
 ---
 
 ## Installation
+
 ```bash
 pip install simplegistyc
+```
+and
+
+```bash
+pip install gistyc
 ```
 You can also download the entire repository to run the tests, download the CI/CD scripts etc.
 
