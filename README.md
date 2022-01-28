@@ -35,7 +35,6 @@ You can also download the entire repository to run the tests, download the CI/CD
 
 ## Python library calls
 
-<i>Please note: ./tests provides some examples that can be reproduced / applied.<br>
 We assume:
 - TOKEN: is the GIST access token
 - FILEPATH: the name of the imaginary file (with extension)
