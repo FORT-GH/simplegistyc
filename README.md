@@ -23,8 +23,7 @@ simplegistyc is a gistyc just more convenient, because it allows you to create, 
 ```bash
 pip install simplegistyc
 ```
-
-... or install it from the main branch of this [repository](https://github.com/FORT-GitHub/simplegistyc). You can also download the entire repository to run the tests, download the CI/CD scripts etc.
+You can also download the entire repository to run the tests, download the CI/CD scripts etc.
 
 ---
 
