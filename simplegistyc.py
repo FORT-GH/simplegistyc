@@ -22,7 +22,7 @@ class api():
         return response_update_data
 
     def update_urlgists(filepath , token):
-        gist_api = gistyc.GISTyc(auth_token = token)#|
+        gist_api = gistyc.GISTyc(auth_token = token)                                     #|
         response_text = str(gist_api.get_gists()).split("'")                             #| - Get new url raw a GIST
         response_text_url = response_text[response_text.index(filepath) + 16]            #|
         return response_text_url
